@@ -1,6 +1,5 @@
 # Shipping Cost Calculator
-# Here is a new update by Naa333
-# Here is another update by Naa333
+ # Here is a new update by Naa333
 
 
 ## Input package weight and shipping rate
